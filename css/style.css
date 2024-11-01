@@ -1,0 +1,24 @@
+.sbm-btn 
+{
+	vertical-align: top;
+	display: -moz-inline-stack;
+	display: inline-block;
+	zoom: 1;
+	*display: inline;
+	padding: 12px 30px;
+	background: #a3d200;
+	font-size: 16px;
+	color: #ffffff;
+	text-decoration: none;
+	-webkit-border-radius: 1px;
+	-moz-border-radius: 1px;
+	border-radius: 1px;
+	text-shadow: none;
+	line-height: 1.4;
+	transition: 0.2s;
+}
+
+.sbm-btn:hover
+{
+	background: #94bf00;
+}
